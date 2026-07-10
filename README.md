@@ -15,16 +15,17 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
-The **LLM Portal** is a production-ready, read-only web interface designed for organizations and individuals who need to provide secure, restricted access to Large Language Models. It prevents unauthorized modifications while offering a clean, professional chat experience.
+<img width="1899" height="912" alt="image" src="https://github.com/user-attachments/assets/b0a2ac1b-984f-4e30-9db6-c02a941b0c81" />
+
 
 ### Use Cases
-- ✅ **Enterprise Deployment**: Provide team access without allowing configuration changes
-- ✅ **Public Demos**: Showcase LLM capabilities in a controlled environment
-- ✅ **Educational Settings**: Teach prompt engineering without system modifications
-- ✅ **Internal Tools**: Monitor and interact with LLMs while maintaining system integrity
-- ✅ **Compliance Requirements**: Meet security standards by restricting modification capabilities
+-  **Enterprise Deployment**: Provide team access without allowing configuration changes
+-  **Public Demos**: Showcase LLM capabilities in a controlled environment
+-  **Educational Settings**: Teach prompt engineering without system modifications
+-  **Internal Tools**: Monitor and interact with LLMs while maintaining system integrity
+-  **Compliance Requirements**: Meet security standards by restricting modification capabilities
 
 ## ✨ Features
 
