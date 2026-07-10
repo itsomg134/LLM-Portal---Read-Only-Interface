@@ -1,4 +1,4 @@
-# 🤖 LLM Portal - Read-Only Interface
+# LLM Portal - Read-Only Interface
 
 <div align="center">
 
