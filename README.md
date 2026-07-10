@@ -75,7 +75,7 @@
 ### Mobile View
 The interface seamlessly adapts to smaller screens with a collapsible sidebar and optimized chat layout.
 
-## 🚀 Installation
+## Installation
 
 ### Option 1: Quick Start (Static Files)
 
@@ -119,7 +119,7 @@ vercel --prod
 git push origin main
 ```
 
-## 📖 Usage
+## Usage
 
 ### Basic Usage
 
@@ -140,14 +140,14 @@ git push origin main
 | Check Status | Visual | Online/offline status indicator |
 
 ### What You Can't Do (By Design)
-- ❌ Send messages
-- ❌ Change system settings
-- ❌ Modify model parameters
-- ❌ Delete chat history
-- ❌ Access admin controls
-- ❌ Update user preferences
+-  Send messages
+-  Change system settings
+-  Modify model parameters
+-  Delete chat history
+-  Access admin controls
+-  Update user preferences
 
-## 🏗️ Architecture
+## Architecture
 
 ### File Structure
 ```
