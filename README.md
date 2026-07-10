@@ -15,23 +15,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Demo](#-demo)
-- [Screenshots](#-screenshots)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Architecture](#-architecture)
-- [Customization](#-customization)
-- [API Integration](#-api-integration)
-- [Security](#-security)
-- [Browser Support](#-browser-support)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Support](#-support)
-
 ## 🎯 Overview
 
 The **LLM Portal** is a production-ready, read-only web interface designed for organizations and individuals who need to provide secure, restricted access to Large Language Models. It prevents unauthorized modifications while offering a clean, professional chat experience.
