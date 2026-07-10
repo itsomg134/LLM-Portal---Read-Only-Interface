@@ -189,7 +189,7 @@ User View → Read-Only Display → Static Data → Visual Updates
    └─────────── No Modifications ──────────────┘
 ```
 
-## 🎨 Customization
+## Customization
 
 ### Styling Variables
 ```css
@@ -247,7 +247,7 @@ addUserCount(count) {
 }
 ```
 
-## 🔌 API Integration
+## API Integration
 
 ### Connecting to Real LLM APIs
 
@@ -284,13 +284,13 @@ class LLMAPI {
 ```
 
 ### Supported LLM Providers
-- ✅ OpenAI (GPT-4, GPT-3.5)
-- ✅ Anthropic (Claude)
-- ✅ Google (Gemini)
-- ✅ Cohere
-- ✅ Custom/Private Models
+-  OpenAI (GPT-4, GPT-3.5)
+-  Anthropic (Claude)
+-  Google (Gemini)
+-  Cohere
+-  Custom/Private Models
 
-## 🔐 Security
+##  Security
 
 ### Security Features
 - **Input Sanitization**: All user inputs are sanitized
@@ -308,25 +308,25 @@ class LLMAPI {
 ```
 
 ### Best Practices Implemented
-- ✅ No sensitive data in client-side code
-- ✅ Disabled form submissions
-- ✅ Protected against XSS attacks
-- ✅ Secure cookie handling
-- ✅ HTTPS compatibility
+-  No sensitive data in client-side code
+-  Disabled form submissions
+-  Protected against XSS attacks
+-  Secure cookie handling
+-  HTTPS compatibility
 
-## 🌐 Browser Support
+##  Browser Support
 
 | Browser | Version | Support |
 |---------|---------|---------|
-| Chrome | 60+ | ✅ Full |
-| Firefox | 55+ | ✅ Full |
-| Safari | 12+ | ✅ Full |
-| Edge | 79+ | ✅ Full |
-| Opera | 47+ | ✅ Full |
-| iOS Safari | 12+ | ✅ Full |
-| Android Chrome | 60+ | ✅ Full |
+| Chrome | 60+ |  Full |
+| Firefox | 55+ |  Full |
+| Safari | 12+ |  Full |
+| Edge | 79+ |  Full |
+| Opera | 47+ |  Full |
+| iOS Safari | 12+ |  Full |
+| Android Chrome | 60+ |  Full |
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -364,6 +364,6 @@ live-server
 npm run build  # If you add build tools
 ```
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
