@@ -9,7 +9,7 @@
 
 **A secure, professional read-only interface for interacting with Large Language Models**
 
-[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Customization](#-customization) • [Contributing](#-contributing)
+[Features](https://notebooklm.google/) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Customization](#-customization) • [Contributing](#-contributing)
 
 </div>
 
