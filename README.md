@@ -27,52 +27,49 @@
 -  **Internal Tools**: Monitor and interact with LLMs while maintaining system integrity
 -  **Compliance Requirements**: Meet security standards by restricting modification capabilities
 
-## ✨ Features
+##  Features
 
-### 🔒 Security Features
+###  Security Features
 - **Read-Only Mode**: All inputs and settings are locked
 - **Visual Status Indicators**: Clear badges showing read-only status
 - **No Configuration Changes**: System settings cannot be modified
 - **Secure by Default**: Built with security best practices
 
-### 📊 Dashboard & Monitoring
+###  Dashboard & Monitoring
 - **Model Information**: Display model name, version, and context length
 - **System Settings**: View temperature, max tokens, and Top-P values
 - **Usage Statistics**: Track requests and token usage in real-time
 - **System Status**: Online/offline indicators with visual feedback
 
-### 💬 Chat Interface
+###  Chat Interface
 - **User-Friendly Design**: Clean, intuitive interface with dark theme
 - **Message History**: Auto-scrolling chat with timestamps
 - **Export Functionality**: Download chat history as text files
 - **Responsive Design**: Works on desktop, tablet, and mobile devices
 
-### 🎨 UI/UX Features
+###  UI/UX Features
 - **Dark Theme**: Eye-friendly dark mode optimized for LLM interfaces
 - **Smooth Animations**: Professional transitions and feedback
 - **Status Badges**: Clear visual indicators for system state
 - **Keyboard Shortcuts**: Support for common operations (where applicable)
 - **Accessibility**: Built with accessibility best practices
 
-## 🖼️ Screenshots
-
 ### Desktop View
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  🤖 LLM Portal                    🔒 Read Only  ● Online │
-├─────────────┬───────────────────────────────────────────────┤
-│ 📊 Model    │  🤖 Assistant:                               │
-│   Info      │  Welcome! I'm your AI assistant...          │
-│             │                                              │
-│ ⚙️ Settings │  👤 You:                                    │
-│             │  Can you help me with...                    │
-│ 📈 Stats    │                                              │
-│             │  [Message input - disabled]                  │
-│ 🔒 Read-Only│  🔒 Input is disabled in read-only mode     │
-│   Notice    │                                              │
-├─────────────┴───────────────────────────────────────────────┤
-│ © 2024 LLM Portal. All rights reserved.   🔄 Refresh 📥 Export│
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│   LLM Portal                     Read Only  ● Online │
+├─────────────┬────────────────────────────────────────┤
+│    Model    │   Assistant:                           │
+│   Info      │  Welcome! I'm your AI assistant...     │
+│             │                                        │
+│    Settings │   You:                                 │
+│             │  Can you help me with...               │
+│    Stats    │                                        │
+│             │  [Message input - disabled]            │
+│    Read-Only│   Input is disabled in read-only mode  │
+│    Notice   │                                        │
+├─────────────┴────────────────────────────────────────┤
+└──────────────────────────────────────────────────────┘
 ```
 
 ### Mobile View
